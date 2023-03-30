@@ -1,7 +1,4 @@
 this is the first file
 some line
-the end.
-
-
-i edited this file now! wow.
-2nd end
+wow.
+the end
