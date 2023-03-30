@@ -1,3 +1,4 @@
 this is the first file
 some line
-the end.
+wow.
+the end
